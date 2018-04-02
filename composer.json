@@ -1,0 +1,20 @@
+{
+    "name": "xiang1993/feie",
+    "description": "飞鹅打印机",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xiang",
+            "email": "2792938834@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Feie\\": "feie/src/"
+        }
+    }
+}

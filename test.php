@@ -2,7 +2,7 @@
 
 require "vendor/autoload.php";
 
-use Feie\Printer;
+use Xiang1993\Feie\Printer;
 
 $printer = (new Printer('2792938834@qq.com', 'FPDLT6n59wv32VEg'));
 

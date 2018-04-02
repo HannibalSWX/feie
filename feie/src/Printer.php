@@ -1,6 +1,6 @@
 <?php
 
-namespace Feie;
+namespace Xiang1993\Feie;
 
 use GuzzleHttp\Client;
 

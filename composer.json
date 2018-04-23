@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Xiang1993\\Feie\\": "feie/src/"
+            "Xiang1993\\Feie\\": "src/"
         }
     }
 }

@@ -80,10 +80,10 @@ class Printer
     {
         $content = "{$sn} # {$key}";
         if (!empty($name)) {
-            $content .= " #{$name}";
+            $content .= " # {$name}";
         }
         if (!empty($phonenum)) {
-            $content .= " #{$phonenum}";
+            $content .= " # {$phonenum}";
         }
 
         $params['printerContent'] = $content;
